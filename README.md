@@ -1,10 +1,33 @@
-Learning Project
+My Starter Project
 ---
-
-This is a learning project to learn react, redux and webpack as per es6.
-
+ 
+Welcome.
+ 
+ 
+ 
+Usage
+---
+ 
+Start the development server with this command:
+ 
+```
+npm start
+```
+ 
+ 
+ 
 Setup
 ---
+ 
 ```
 npm install
+```
+ 
+ 
+ 
+Compile
+---
+ 
+```
+npm run compile
 ```
